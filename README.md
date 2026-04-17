@@ -109,7 +109,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-<a href="https://github.com/2026-1-MCC1/Projeto5.git">Cidade Limpa</a> © 2026 by <a href="https://github.com/alanasrocha08">Alana Silva Rocha</a>, <a href="https://github.com/clbruna">Bruna Clara da Silva Morais</a>, <a href="https://github.com/GehMay">Geovanna Vitoria Mayumi Reis Tamagusko</a>, <a href="https://github.com/juliaandmed">Júlia de Andrade Medeiros</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/2026-1-MCC1/Projeto5.git">Cidade Limpa</a> © 2026 by <a href="https://github.com/alanasrocha08">Alana Silva Rocha</a>, <a href="https://github.com/clbruna">Bruna Clara da Silva Morais</a>, <a href="https://github.com/GehMay">Geovanna Vitoria Mayumi Reis Tamagusko</a> e <a href="https://github.com/juliaandmed">Júlia de Andrade Medeiros</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
