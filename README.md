@@ -17,9 +17,9 @@ Vide tutoriais do PI.
 ## Integrantes: <a href="https://www.linkedin.com/in/alanas-rocha/">Alana Silva Rocha</a>, <a href="https://github.com/BrunaClara">Bruna Clara da Silva Morais</a>, <a href="https://github.com/GehMay">Geovanna Vitoria Mayumi Reis Tamagusko</a>, <a href= "https://github.com/juliaandmed/Julia">Julia de Andrade Medeiros</a>
 
 ## Professores Orientadores: 
-<br><a href="https://www.linkedin.com/in/luisspires/" target="_blank" rel="noopener noreferrer"> Luiz Fernando dos Santos Pires </a>
 <br><a href="https://www.linkedin.com/in/adriano-valente-534576135/" target="_blank" rel="noopener noreferrer"> Adriano Felix Valente </a>
 <br><a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/" target="_blank" rel="noopener noreferrer"> Eduardo Savino Gomes </a>
+<br><a href="https://www.linkedin.com/in/luisspires/" target="_blank" rel="noopener noreferrer"> Luiz Fernando dos Santos Pires </a>
 <br><a href="https://www.linkedin.com/in/remuniz/" target="_blank" rel="noopener noreferrer"> Renata Muniz do Nascimento </a>
 <br><a href="https://www.linkedin.com/in/victorbarq/" target="_blank" rel="noopener noreferrer"> Victor Bruno Alexander Rosetti de Quiroz </a>
 
@@ -71,15 +71,6 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>src</b>: Pasta que contém o código fonte.
 
 ## 🛠 Instalação
-
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
 <b>Windows:</b>
 
