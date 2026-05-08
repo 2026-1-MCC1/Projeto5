@@ -26,12 +26,12 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+<p>O projeto consiste no desenvolvimento de um jogo digital eco friendly em primeira pessoa, com foco no gênero puzzle narrativo. A proposta une conscientização ambiental e suspense em uma experiência interativa, na qual o descarte correto de resíduos se torna parte essencial da narrativa. Por meio de mecânicas de coleta, identificação e separação de resíduos, o jogador é incentivado a refletir sobre práticas sustentáveis de forma dinâmica e imersiva.</p>
+</br> 
+<p>
+  Diferente de jogos educativos tradicionais, cada escolha do jogador impacta diretamente a história: acertos revelam fragmentos das memórias de uma cidade abandonada, enquanto erros fazem essas lembranças desaparecerem para sempre. Desenvolvido em Unity com linguagem C#, o projeto faz parte de um bootcamp acadêmico e busca entregar uma solução criativa, funcional e alinhada às demandas atuais de conscientização ambiental, utilizando a narrativa como principal ferramenta de engajamento.
+</p>
+
 
 ## 🛠 Estrutura de pastas
 
