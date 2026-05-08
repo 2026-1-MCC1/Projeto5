@@ -17,6 +17,7 @@ Vide tutoriais do PI.
 ## Integrantes: <a href="https://www.linkedin.com/in/alanas-rocha/">Alana Silva Rocha</a>, <a href="https://github.com/BrunaClara">Bruna Clara da Silva Morais</a>, <a href="https://github.com/GehMay">Geovanna Vitoria Mayumi Reis Tamagusko</a>, <a href= "https://github.com/juliaandmed/Julia">Julia de Andrade Medeiros</a>
 
 ## Professores Orientadores: 
+<br><a href="https://www.linkedin.com/in/luisspires/" target="_blank" rel="noopener noreferrer"> Luiz Fernando dos Santos Pires </a>
 <br><a href="https://www.linkedin.com/in/adriano-valente-534576135/" target="_blank" rel="noopener noreferrer"> Adriano Felix Valente </a>
 <br><a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/" target="_blank" rel="noopener noreferrer"> Eduardo Savino Gomes </a>
 <br><a href="https://www.linkedin.com/in/remuniz/" target="_blank" rel="noopener noreferrer"> Renata Muniz do Nascimento </a>
@@ -26,7 +27,7 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Cidade Limpa" border="0">
+<img src="C:\Users\26028945\Downloads\Copilot_20260508_085023.png" alt="Cidade Limpa" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
