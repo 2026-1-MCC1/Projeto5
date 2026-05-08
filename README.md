@@ -28,7 +28,7 @@ Vide tutoriais do PI.
 
 <p align="center">
 <img src="https://github.com/2026-1-MCC1/Projeto5/blob/main/imagens/jogo.jpg" alt="Cidade Limpa" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  Game by <a href="http://www.nyphotographic.com/">Alana Silva Rocha, Bruna Clara da Silva Morais, Geovanna Vitoria Mayumi Reis Tamagusko, Julia de Andrade Medeiros</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
@@ -110,7 +110,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-<a href="https://github.com/2026-1-MCC1/Projeto5.git">Cidade Limpa</a> © 2026 by <a href="https://github.com/alanasrocha08">Alana Silva Rocha</a>, <a href="https://github.com/clbruna">Bruna Clara da Silva Morais</a>, <a href="https://github.com/GehMay">Geovanna Vitoria Mayumi Reis Tamagusko</a> e <a href="https://github.com/juliaandmed">Júlia de Andrade Medeiros</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/2026-1-MCC1/Projeto5.git">Cidade Limpa</a> © 2026 by <a href="https://github.com/alanasrocha08">Alana Silva Rocha</a>, <a href="https://github.com/clbruna">Bruna Clara da Silva Morais</a>, <a href="https://github.com/GehMay">Geovanna Vitoria Mayumi Reis Tamagusko</a>, <a href="https://github.com/juliaandmed">Júlia de Andrade Medeiros</a><a><a href= "https://www.fecap.br/">FECAP></a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
